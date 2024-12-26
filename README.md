@@ -20,3 +20,15 @@ This repository contains a comprehensive SQL cheatsheet for quick reference. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sql-cheatsheet.git
+
+# Table of Contents 
+1. [ Finding Data Queries. ](#find)
+2. [ Data Modification Queries. ](#modify)
+3. [ Reporting Queries. ](#report)
+4. [ Join Queries. ](#joins)
+5. [ View Queries. ](#view)
+6. [ Altering Table Queries.](#alter)
+7. [ Creating Table Query.](#create)
+
+<a name="find"></a>
+# 1. Finding Data Queries
