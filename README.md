@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive SQL cheatsheet for quick reference. It includes essential queries, advanced techniques, and best practices for working with relational databases.
 
-## 📌 Topics Covered
+## Topics Covered
 - **Basic Queries**: SELECT, INSERT, UPDATE, DELETE
 - **Joins and Subqueries**: INNER JOIN, LEFT JOIN, UNION, CTEs
 - **Functions**: Aggregations (AVG, SUM), String functions, Date functions
@@ -10,7 +10,7 @@ This repository contains a comprehensive SQL cheatsheet for quick reference. It 
 - **Optimization**: Indexing, query performance, execution plans
 - **Practical Examples**: Sales analysis, customer segmentation, and financial metrics
 
-## 🚀 How to Use
+## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sql-cheatsheet.git
