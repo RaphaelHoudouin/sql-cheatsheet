@@ -14,3 +14,7 @@ This repository contains a comprehensive SQL cheatsheet for quick reference. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sql-cheatsheet.git
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
+
